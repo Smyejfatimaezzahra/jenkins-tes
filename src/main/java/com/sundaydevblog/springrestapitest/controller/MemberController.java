@@ -72,7 +72,7 @@ public class MemberController {
 
     @GetMapping(value = "/hello")
     public String sayHi(){
-        return "Hello , jenkins fortoday ";
+        return "Hello , jenkins for today ";
     }
 
 }
